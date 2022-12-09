@@ -15,7 +15,7 @@ import static com.codeborne.selenide.Selectors.byClassName;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.Selenide.$;
 
-public class DeliveryTest {
+public class DeliveryOrderTest {
 
     @BeforeAll
     static void setUpAll() {
