@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2791qks37jp5oh2f?svg=true)](https://ci.appveyor.com/project/LetoTomaLeto/patterns2)
